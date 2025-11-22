@@ -9,7 +9,7 @@ Apart from the 2 .ipynb file the repo also contains the ground truth and predict
 
 The dataset currently being used is the RadDet 1T Small (128x128) dataset.
 
-Due to extensive size of the saved models(.pt) files, i have uploaded the saved models on a google drive. Drive link - "saved_models". The drive contains a number of saved models under different epoch values, patience values and with and without using the COCO evaluation method for calculating the mAP values. 
+Due to extensive size of the saved models(.pt) files, i have uploaded the saved models on a google drive. Drive link - [[Saved models]](https://drive.google.com/drive/folders/1WO5UjzpfHBy0rJlZKulcKCpGuco-FALS?usp=drive_link). The drive contains a number of saved models under different epoch values, patience values and with and without using the COCO evaluation method for calculating the mAP values. 
 
 # Running the code
 
